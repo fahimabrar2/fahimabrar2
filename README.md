@@ -2,9 +2,17 @@
 #### I am a Web Developer
 ![I am a Web Developer](https://pbs.twimg.com/profile_banners/1295810820/1435298363/1500x500)
 
-Hi! My name is Fahim Abrar. I am a Web Developer, and I'm very passionate and dedicated to my work. As a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.
+Hi! My name is Fahim Abrar. I am a Web Developer, and I'm very passionate and dedicated to my work. As a professional Web developer, I have acquired the skills and knowledge necessary to make any project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.
 
-Skills: PHP/ MYSQL/ WORDPRESS / JQUERY / JS / HTML / CSS
+Skills:
+✅HTML
+✅CSS
+✅PHP 
+✅JS
+✅JQUERY
+✅WORDPRESS
+✅MYSQL
+✅HTML
 
 - 🌱 I’m currently learning Node JS / React JS 
 - 💬 Ask me about Web Development 
