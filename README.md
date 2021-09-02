@@ -12,7 +12,6 @@ Skills:
 ✅JQUERY
 ✅WORDPRESS
 ✅MYSQL
-✅HTML
 
 - 🌱 I’m currently learning Node JS / React JS 
 - 💬 Ask me about Web Development 
